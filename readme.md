@@ -42,7 +42,7 @@ If the Judge determines the attack failed (e.g., the target gave a safety refusa
 ### Setup
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/jail-breaker.git
+    git clone https://github.com/quantum2689/jail_breaker
     cd jail-breaker
     ```
 
